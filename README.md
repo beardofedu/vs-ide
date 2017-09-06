@@ -8,3 +8,5 @@ Repository for Visual Studio IDE Week Collab
 1. Visual Studio 2017 Community (15 min)
 1. Visual Studio Code (15 min)
 1. Q & A (10 min)
+
+Testing pushing from Windows.
